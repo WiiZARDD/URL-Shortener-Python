@@ -24,7 +24,7 @@ This Python script empowers you to shorten and expand URLs using Bitly's URL sho
 
 ## 🤖 Try out the Replit!
 
-- https://replit.com/@WiiZARDD/URL-Shortener-FREE
+- https://replit.com/@WiiZARDD/URL-Shortener-FREE?v=1
 
 ## 📖 Usage
 
