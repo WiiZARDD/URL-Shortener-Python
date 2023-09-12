@@ -22,6 +22,10 @@ This Python script empowers you to shorten and expand URLs using Bitly's URL sho
 - 📜 **Manage URLs**: Keep track of your previously shortened links with ease.
 - 🚀 **User-Friendly**: Simple and intuitive interface for quick URL management.
 
+## 🤖 Try out the Replit!
+
+- https://replit.com/@WiiZARDD/URL-Shortener-FREE
+
 ## 📖 Usage
 
 1. **Shorten a URL**:
